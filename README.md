@@ -26,6 +26,7 @@ Estou cursando **ADS** e focando meus estudos na construção de aplicações ef
 
 ### 📁 Projetos em Destaque
 * 💻 (https://evellynclarasilvaaraujo-tech.github.io/Login/) *Página de Login
+* 💻 (https://evellynclarasilvaaraujo-tech.github.io/project-/) *Projeto pessoal
 
 ---
 

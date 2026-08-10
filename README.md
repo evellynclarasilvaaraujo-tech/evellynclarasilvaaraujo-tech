@@ -16,11 +16,9 @@ Estou cursando **ADS** e focando meus estudos na construção de aplicações ef
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-***Linguagens:** JavaScript, SQL
+***Linguagens:** HTML5, CSS, JavaScript, SQL, Python.
 
-***Front-End:** HTML5, CSS3
-
-***Ferramentas:** GitHub, VS Code, Mysql
+***Ferramentas:** Git, GitHub, VS Code, Mysql, Pacote Office.
 
 ---
 
